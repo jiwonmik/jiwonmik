@@ -3,6 +3,9 @@
 
 Currently I am interested in using [OpenAI](https://openai.com/blog/openai-api). It's incredible!✨ 
 
+
+I used OpenAI api for building [Question Prompter](https://github.com/jiwonmik/SMILE-Question-Prompter) and currently working on [Guess What Game](https://github.com/jiwonmik/SMILE-Guess-What-Game) project as well. 
+
 <div>
 <h2>🛠️ Tech Stacks</h2>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
