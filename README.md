@@ -12,6 +12,7 @@ I used OpenAI api for building [Question Prompter](https://github.com/jiwonmik/S
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
 </br>
@@ -27,7 +28,6 @@ I used OpenAI api for building [Question Prompter](https://github.com/jiwonmik/S
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=Gunicorn&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-181717?style=flat&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 </div>
 
@@ -44,7 +44,7 @@ I used OpenAI api for building [Question Prompter](https://github.com/jiwonmik/S
 </div>
 
 <br>
-<h3> 📬 Contact me </h3>
+<h3> 📬 How to reach me </h3>
 <a href="https://www.linkedin.com/in/jiwonmik/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" />
 </a>
