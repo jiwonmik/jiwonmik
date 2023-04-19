@@ -36,10 +36,10 @@ I used OpenAI api for building [Question Prompter](https://github.com/jiwonmik/S
 <h3>✨ Check my Github Status!</h3>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=jiwonmik&show_icons=true&theme=radical" />
+    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jiwonmik&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonmik&layout=compact"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jiwonmik&layout=compact"/>
   </a>
 </div>
 
