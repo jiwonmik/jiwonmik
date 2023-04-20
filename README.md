@@ -49,7 +49,7 @@ I used OpenAI api for building [Question Prompter](https://github.com/jiwonmik/S
     <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jiwonmik&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jiwonmik&layout=compact"/>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jiwonmik&layout=compact"/>
   </a>
 </div>
 
@@ -58,6 +58,11 @@ I used OpenAI api for building [Question Prompter](https://github.com/jiwonmik/S
 <a href="https://www.linkedin.com/in/jiwonmik/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" />
 </a>
+<a href="mailto:jiwonmik@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+</a>
+
+
 
 <!--
 **jiwonmik/jiwonmik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
